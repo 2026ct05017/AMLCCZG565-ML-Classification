@@ -1,4 +1,4 @@
-# Machine Learning Assignment — Classification Model Comparison
+# Machine Learning Assignment — Classification Model Comparison _ Nagaraju Bandaru
 
 ## Problem Statement
 The objective of this project is to implement, evaluate, and compare five supervised machine learning classification models—Logistic Regression, Decision Tree, K-Nearest Neighbors (kNN), Gaussian Naive Bayes, and Random Forest—on a clinical diagnostic dataset to predict whether a patient has thyroid disease (`sick`) or is healthy (`negative`).
